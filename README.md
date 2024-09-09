@@ -1,4 +1,4 @@
-# Maltimart Ecommerce
+# Fusionmart
 
 ## 📌 Live Demo
 https://fusionmart-ecommerce.onrender.com
